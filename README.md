@@ -9,4 +9,4 @@ The objective of our study was to forecast the tendency of developing depression
 
 On the conclusion, we can deduced the KNN model when used with the Bagging method produces the maximum accuracy on the testing data of 83% thought it is not the best performing model. In this problem, we want to maximize the correct predict in Class 1 (Depressed) to detect early possibilities of Depression. ADAboosted Logistic Regressor proves to perform better in predicting Class 1 better than other models.
 
-![confusion matrix](./images/confusion_matrix_depression.PNG)
+![confusion matrix](./confusion_matrix_depression.PNG)
